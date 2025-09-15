@@ -20,5 +20,5 @@ Built with **Python, TensorFlow/Keras, VGG16, and K-means clustering**.
 ## Installation
 ```bash
 git clone https://github.com/yourusername/perovskite-cell-defect-detection.git
-cd perovskite-cell-defect-detection
 pip install -r requirements.txt
+python detect_defects.py
